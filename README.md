@@ -12,8 +12,8 @@ npm install
 npm start
 ```
 
-Now open up [http://localhost:8087] on browser
-If the above url gives API message on Brower, the app is alive.
+Now open up http://localhost:8087 on browser
+If the above url gives API message on browser, the app is alive.
 
 The application uses in-memory-database to pre-load users. The list of usernames/passwords are present in /service/intialDBSetup.js
 Using one of the username and password present in the above file create following request's in POSTMAN or any RESTful client.
